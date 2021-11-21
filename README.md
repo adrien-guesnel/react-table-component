@@ -19,9 +19,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-The project use Next.js and tailwindcss.
+The project uses Next.js and tailwindcss.
 
-You can find a api that fakes retrieve of 100 000 users [http://localhost:3000/api/getUsers](http://localhost:3000/api/getUsers)
+You can find an api that fakes retrieve of 100 000 users [http://localhost:3000/api/getUsers](http://localhost:3000/api/getUsers)
 
 ## What you can do
 
